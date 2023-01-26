@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🔭 I’m currently working on low-level vision and deepfake detection.
+🔭 I’m currently working on computer vision and image processing.
 
 <!-- [![Zhendong Wang's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZhendongWang6&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats) -->
